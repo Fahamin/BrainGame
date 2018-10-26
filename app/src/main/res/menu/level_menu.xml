@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Normal"
+        android:id="@+id/normalLevel">
+
+    </item>
+
+    <item
+        android:title="Hard"
+        android:id="@+id/hardlLevel">
+
+    </item>
+
+    <item
+        android:title="Very Hard"
+        android:id="@+id/vhardLevel">
+
+    </item>
+</menu>

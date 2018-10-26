@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Brain Game</string>
+<!--
+
+    <string name="interstitial_full_screen1">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_home_footer_1">ca-app-pub-3940256099942544/6300978111</string>
+
+-->
+
+  <!--  real add-->
+
+    <string name="interstitial_full_screen1">ca-app-pub-6013605396446078/6771504365</string>
+    <string name="banner_home_footer_1">ca-app-pub-6013605396446078/1531543170</string>
+
+
+    <string name="btnNewGame">New Game</string>
+    <string name="btnNewGameCPU">New Game vs CPU</string>
+    <string name="btnEasy">Easy</string>
+    <string name="btnNormal">Normal</string>
+    <string name="btnHard">Hard</string>
+    <string name="btnImpossible">Impossible</string>
+    <string name="title">Tic Tac Toe</string>
+    <string name="difficulty">Select Level</string>
+    <string name="txtPlayer">PLAYER :</string>
+    <string name="txtCPU">MOBILE :</string>
+
+</resources>
